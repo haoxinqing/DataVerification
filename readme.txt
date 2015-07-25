@@ -1,29 +1,34 @@
+æ•°æ®éªŒè¯
+
 edit by dwq 2015-07-24
 
-µ±Ç°ÒÑÊµÏÖµÄ¹¦ÄÜ£º
+å½“å‰å·²å®žçŽ°çš„åŠŸèƒ½ï¼š
 
-1.¶ÔTextBoxÄÚÈÝµÄÑéÖ¤£¨°üÀ¨ÊµÊýÐÍ£¬ÕûÊýÐÍºÍ½Ç¶ÈÐÍÑéÖ¤£¬Ö§³ÖÊµÊýºÍÕûÊýÀàÐÍµÄ¿ÆÑ§¼ÆÊý·¨ÊäÈë£©,¿ÉÒÔÖ¸¶¨Ìí¼ÓÑéÖ¤µ½£¨TextChange»òÕßLeave£¬ÓÉeventtypeÖ¸¶¨£©£»
+1.å¯¹TextBoxå†…å®¹çš„éªŒè¯ï¼ˆåŒ…æ‹¬å®žæ•°åž‹ï¼Œæ•´æ•°åž‹å’Œè§’åº¦åž‹éªŒè¯ï¼Œæ”¯æŒå®žæ•°å’Œæ•´æ•°ç±»åž‹çš„ç§‘å­¦è®¡æ•°æ³•è¾“å…¥ï¼‰,å¯ä»¥æŒ‡å®šæ·»åŠ éªŒè¯åˆ°
 
-2.¶ÔDataGridViewÄÚÈÝµÄÑéÖ¤£¬¶ÔÆä¸÷ÁÐÊý¾ÝµÄÑéÖ¤£¬ÒÔ¼°Ö¸¶¨Êý¾ÝÁÐ·Ç¿ÕµÄÅÐ¶Ï£¨notnullindexÖ¸¶¨·Ç¿ÕÁÐË÷Òý£¬¶ººÅ·Ö¸ô£©£»
+ï¼ˆTextChangeæˆ–è€…Leaveï¼Œç”±eventtypeæŒ‡å®šï¼‰ï¼›
 
-3.¶ÔÓÚ°´Å¥µÄÑéÖ¤£¬Ò»¸ö°´Å¥¶ÔÓ¦¼¸¸öÊý¾Ý¿Ø¼þ£¨TextBoxºÍDataGridView£©£¬°´Å¥ClickÊÂ¼þÖÐµ÷ÓÃDataCheckµÄ
+2.å¯¹DataGridViewå†…å®¹çš„éªŒè¯ï¼Œå¯¹å…¶å„åˆ—æ•°æ®çš„éªŒè¯ï¼Œä»¥åŠæŒ‡å®šæ•°æ®åˆ—éžç©ºçš„åˆ¤æ–­ï¼ˆnotnullindexæŒ‡å®šéžç©ºåˆ—ç´¢å¼•ï¼Œé€—å·åˆ†éš”ï¼‰ï¼›
 
-DataValidate¾²Ì¬·½·¨£¬·µ»ØÒ»¸öboolÖµ£¬Ö¸Ê¾ÊÇ·ñËùÓÐ±ØÌîÏîÒÑ¾­ÓÐÄÚÈÝ£¨µ÷ÓÃDataValidate·½·¨Ö®Ç°£¬È·±£ÒÑ¾­Éè
+3.å¯¹äºŽæŒ‰é’®çš„éªŒè¯ï¼Œä¸€ä¸ªæŒ‰é’®å¯¹åº”å‡ ä¸ªæ•°æ®æŽ§ä»¶ï¼ˆTextBoxå’ŒDataGridViewï¼‰ï¼ŒæŒ‰é’®Clickäº‹ä»¶ä¸­è°ƒç”¨DataCheckçš„
 
-ÖÃÁËXMLÎÄ¼þÂ·¾¶)
+DataValidateé™æ€æ–¹æ³•ï¼Œè¿”å›žä¸€ä¸ªboolå€¼ï¼ŒæŒ‡ç¤ºæ˜¯å¦æ‰€æœ‰å¿…å¡«é¡¹å·²ç»æœ‰å†…å®¹ï¼ˆè°ƒç”¨DataValidateæ–¹æ³•ä¹‹å‰ï¼Œç¡®ä¿å·²ç»è®¾
 
-Ê¹ÓÃ×¢Òâ£º
+ç½®äº†XMLæ–‡ä»¶è·¯å¾„)
 
-1.µ±Ç°Êý¾ÝÑéÖ¤Ö»ÄÜ°ó¶¨µ±Ç°ÀàÖÐµÄ¿Ø¼þ£¬¼´Ê¹xmlÖÐ´æÔÚÆäËûÀàµÄ¿Ø¼þ£¬Ò²ÊÇ²»Óè°ó¶¨µÄ£»
+ä½¿ç”¨æ³¨æ„ï¼š
 
-2.Ê¹ÓÃ½«±¾ÏîÄ¿Éú³ÉµÄdllÎÄ¼þ¿½±´µ½Ê¹ÓÃÏîÄ¿Ä¿Â¼Ìí¼ÓÒýÓÃ£¬ÑéÖ¤Ö®Ç°ÐèÒªÏÈÉèÖÃXMLÎÄ¼þÂ·¾¶£¬ÑéÖ¤Èë¿Úº¯ÊýÎªDataCheckµÄCheck·½·¨£¨ÐèÒªµÄ²ÎÊýÎªµ±Ç°´°Ìå¶ÔÏó£©£¬·Ç¿ÕÑé
-Ö¤µÄÈë¿ÚÎªDataValidate£¬ÐèÒªµÄ²ÎÊýÎª°´Å¥ÊµÀý£»
+1.å½“å‰æ•°æ®éªŒè¯åªèƒ½ç»‘å®šå½“å‰ç±»ä¸­çš„æŽ§ä»¶ï¼Œå³ä½¿xmlä¸­å­˜åœ¨å…¶ä»–ç±»çš„æŽ§ä»¶ï¼Œä¹Ÿæ˜¯ä¸äºˆç»‘å®šçš„ï¼›
 
-3.¶ÔDataGridView½øÐÐÊý¾Ý°ó¶¨Ê±£¬ÐèÒª½«ÆäÈ«²¿Êý¾ÝÁÐÌí¼ÓÀàÐÍÏÞÖÆ£¨²»½øÐÐÏÞÖÆµÄ£¬ÒÔNULL»òÕßUNLIMITEDÌî³ä)£»
+2.ä½¿ç”¨å°†æœ¬é¡¹ç›®ç”Ÿæˆçš„dllæ–‡ä»¶æ‹·è´åˆ°ä½¿ç”¨é¡¹ç›®ç›®å½•æ·»åŠ å¼•ç”¨ï¼ŒéªŒè¯ä¹‹å‰éœ€è¦å…ˆè®¾ç½®XMLæ–‡ä»¶è·¯å¾„ï¼ŒéªŒè¯å…¥å£å‡½æ•°ä¸ºDataCheck
 
-¶ÔÓÚXMLÎÄ¼þµÄÒªÇó£º
+çš„Checkæ–¹æ³•ï¼ˆéœ€è¦çš„å‚æ•°ä¸ºå½“å‰çª—ä½“å¯¹è±¡ï¼‰ï¼Œéžç©ºéªŒè¯çš„å…¥å£ä¸ºDataValidateï¼Œéœ€è¦çš„å‚æ•°ä¸ºæŒ‰é’®å®žä¾‹ï¼›
 
-1.¸ù½ÚµãÃûÎªparameters£¬¸ù½Úµã°üº¬Á½¸ö×Ó½Úµã£¨controlsºÍtypes£©£»
+3.å¯¹DataGridViewè¿›è¡Œæ•°æ®ç»‘å®šæ—¶ï¼Œéœ€è¦å°†å…¶å…¨éƒ¨æ•°æ®åˆ—æ·»åŠ ç±»åž‹é™åˆ¶ï¼ˆä¸è¿›è¡Œé™åˆ¶çš„ï¼Œä»¥NULLæˆ–è€…UNLIMITEDå¡«å……)ï¼›
+
+å¯¹äºŽXMLæ–‡ä»¶çš„è¦æ±‚ï¼š
+
+1.æ ¹èŠ‚ç‚¹åä¸ºparametersï¼Œæ ¹èŠ‚ç‚¹åŒ…å«ä¸¤ä¸ªå­èŠ‚ç‚¹ï¼ˆcontrolså’Œtypesï¼‰ï¼›
 	<?XML encoding="" ?>
 	<parameters>
 	   <controls>
@@ -38,49 +43,59 @@ DataValidate¾²Ì¬·½·¨£¬·µ»ØÒ»¸öboolÖµ£¬Ö¸Ê¾ÊÇ·ñËùÓÐ±ØÌîÏîÒÑ¾­ÓÐÄÚÈÝ£¨µ÷ÓÃDataVali
 	   </tipmessages>
 	</parameters>
 
-2.controls½ÚµãÄÚÈÝÖ÷ÒªÊÇ¿Ø¼þÐÅÏ¢£¨Ö÷ÒªÎªÈýÖÖTextBox£¬DataGridViewºÍButton£¬TextBoxÐèÒªµÄÊôÐÔÓÐdatatype£¬eventtype£»DataGridViewÖ÷ÒªÊôÐÔÓÐdatatype£¬notnullindex£»ButtonµÄÊôÐÔÓÐcontrols,tip£©£¬
-½Úµã²ã´ÎÎª£º
+2.controlsèŠ‚ç‚¹å†…å®¹ä¸»è¦æ˜¯æŽ§ä»¶ä¿¡æ¯ï¼ˆä¸»è¦ä¸ºä¸‰ç§TextBoxï¼ŒDataGridViewå’ŒButtonï¼ŒTextBoxéœ€è¦çš„å±žæ€§æœ‰datatypeï¼Œ
+
+eventtypeï¼›DataGridViewä¸»è¦å±žæ€§æœ‰datatypeï¼Œnotnullindexï¼›Buttonçš„å±žæ€§æœ‰controls,tipï¼‰ï¼Œ
+
+èŠ‚ç‚¹å±‚æ¬¡ä¸ºï¼š
    <controls>
-	<ÃüÃû¿Õ¼äÃû1>
-	   <ÀàÃû1>
-		<¿Ø¼þÃû1 datatype="ÀàÐÍÃû" eventtype="TEXTCHANGE">
-		</¿Ø¼þÃû1>
-	   </ÀàÃû1>
-	   <ÀàÃû2>
-		<¿Ø¼þÃû2 datatype="ÀàÐÍÃû" eventtype="LEAVE">
-		</¿Ø¼þÃû2>
-	   </ÀàÃû2>
+	<å‘½åç©ºé—´å1>
+	   <ç±»å1>
+		<æŽ§ä»¶å1 datatype="ç±»åž‹å" eventtype="TEXTCHANGE">
+		</æŽ§ä»¶å1>
+	   </ç±»å1>
+	   <ç±»å2>
+		<æŽ§ä»¶å2 datatype="ç±»åž‹å" eventtype="LEAVE">
+		</æŽ§ä»¶å2>
+	   </ç±»å2>
 	   ...
-	</ÃüÃû¿Õ¼äÃû1>
-	<ÃüÃû¿Õ¼äÃû2>
-	   <ÀàÃû5>
-		<¿Ø¼þÃû7 datatype="ÀàÐÍÃû" eventtype="TEXTCHANGE">
-		</¿Ø¼þÃû7>
-	   </ÀàÃû5>
-	</ÃüÃû¿Õ¼äÃû2>
+	</å‘½åç©ºé—´å1>
+	<å‘½åç©ºé—´å2>
+	   <ç±»å5>
+		<æŽ§ä»¶å7 datatype="ç±»åž‹å" eventtype="TEXTCHANGE">
+		</æŽ§ä»¶å7>
+	   </ç±»å5>
+	</å‘½åç©ºé—´å2>
 	...
    </controls>
-¿Ø¼þµÄdatatypeÊôÐÔÖµÊÇtypesÏÂÄ³Ò»×Ó½ÚµãµÄÃû³Æ£»
+æŽ§ä»¶çš„datatypeå±žæ€§å€¼æ˜¯typesä¸‹æŸä¸€å­èŠ‚ç‚¹çš„åç§°ï¼›
 
-¶ÔÓÚButtonºÍ¿Ø¼þÔÚÍ¬Ò»¼¶£¬Í¬ÑùÎ»ÓÚÃüÃû¿Õ¼ä-Àà-Button£¨×¢Òâ£ºcontrolsÊôÐÔÖÐµÄ¿Ø¼þ²»ÐèÒªÒ»¶¨ÔÚÅäÖÃÎÄ¼þÀï£¬ÊÇÍ¨
-¹ý¿Ø¼þÃûÖ±½Ó¼ìË÷µ±Ç°Ò³ÃæÀïÃæÍ¬ÃûµÄ¿Ø¼þ£©
+å¯¹äºŽButtonå’ŒæŽ§ä»¶åœ¨åŒä¸€çº§ï¼ŒåŒæ ·ä½äºŽå‘½åç©ºé—´-ç±»-Buttonï¼ˆæ³¨æ„ï¼šcontrolså±žæ€§ä¸­çš„æŽ§ä»¶ä¸éœ€è¦ä¸€å®šåœ¨é…ç½®æ–‡ä»¶é‡Œï¼Œæ˜¯é€š
 
-		<°´Å¥Ãû controls="¿Ø¼þ1,¿Ø¼þ2,..." tip="tip1">
+è¿‡æŽ§ä»¶åç›´æŽ¥æ£€ç´¢å½“å‰é¡µé¢é‡Œé¢åŒåçš„æŽ§ä»¶ï¼‰
 
-3.types½ÚµãÖ÷ÒªÎªÓë¿Ø¼þ¶ÔÓ¦µÄÊý¾ÝÀàÐÍÄÚÈÝ£¬×éÖ¯ÐÎÊ½ÈçÏÂ£º
+		<æŒ‰é’®å controls="æŽ§ä»¶1,æŽ§ä»¶2,..." tip="tip1">
+
+3.typesèŠ‚ç‚¹ä¸»è¦ä¸ºä¸ŽæŽ§ä»¶å¯¹åº”çš„æ•°æ®ç±»åž‹å†…å®¹ï¼Œç»„ç»‡å½¢å¼å¦‚ä¸‹ï¼š
 	<types>
-	   <type1 colIdx="0,1,2£¬..." datatype="REALNUMBER,NULL,NULL,..." />
+	   <type1 colIdx="0,1,2ï¼Œ..." datatype="REALNUMBER,NULL,NULL,..." />
 	   <type2 colIdx="-1" datatype="REALNUMBER" />
 	   ...
 	</types>
-¹ØÓÚtypeµÄÐÂ×Ó½ÚµãµÄÃüÃûÐèÎ¨Ò»±êÊ¶£¬colIdx´æ·ÅÊý¾ÝµÄÁÐË÷Òý£¨¶ÔÓÚTextBox¿É²»Ð´£©£¬¶à¸öË÷ÒýÖ±½ÓÒÔ¶ººÅ¸ô¿ª£¬¶ødatatype´æ·ÅÓëcolIdx¶ÔÓ¦µÄÊý¾ÝÀàÐÍ£¬¶à¸öÀàÐÍÖ®¼äÒÔ
-¶ººÅ¸ô¿ª£¬¿ÉÓÃµÄÊý¾ÝÀàÐÍÓÐNULL»òÕßUNLIMITED£¨´ËÁÐÎÞÏÞÖÆ£©£¬REALNUMBER£¨ÊµÊýÐÍ£©£¬INTEGER£¨ÕûÊýÐÍ£©ºÍANGLE£¨½Ç¶ÈÐÍ£©
+å…³äºŽtypeçš„æ–°å­èŠ‚ç‚¹çš„å‘½åéœ€å”¯ä¸€æ ‡è¯†ï¼ŒcolIdxå­˜æ”¾æ•°æ®çš„åˆ—ç´¢å¼•ï¼ˆå¯¹äºŽTextBoxå¯ä¸å†™ï¼‰ï¼Œå¤šä¸ªç´¢å¼•ç›´æŽ¥ä»¥é€—å·éš”å¼€ï¼Œè€Œ
+
+datatypeå­˜æ”¾ä¸ŽcolIdxå¯¹åº”çš„æ•°æ®ç±»åž‹ï¼Œå¤šä¸ªç±»åž‹ä¹‹é—´ä»¥é€—å·éš”å¼€ï¼Œå¯ç”¨çš„æ•°æ®ç±»åž‹æœ‰NULLæˆ–è€…UNLIMITEDï¼ˆæ­¤åˆ—æ— é™åˆ¶ï¼‰ï¼Œ
+
+REALNUMBERï¼ˆå®žæ•°åž‹ï¼‰ï¼ŒINTEGERï¼ˆæ•´æ•°åž‹ï¼‰å’ŒANGLEï¼ˆè§’åº¦åž‹ï¼‰
 
 
-4.tipmessages½ÚµãÖ¸Ê¾µ±°´Å¥ÑéÖ¤²»Í¨¹ýÊ±µÄ´íÎóÌáÊ¾ÐÅÏ¢£¬errornoÊôÐÔÎª´íÎó±àºÅ£¬¶à¸ö´íÎó±àºÅ¼äÒÔ¶ººÅ·Ö¸ô£¬¡°0¡±±íÊ¾ÑéÖ¤³É¹¦£¬¡°1¡±±íÊ¾ÑéÖ¤Ê§°Ü£»errormessageÖ¸
-Ê¾´íÎóÌáÊ¾ÐÅÏ¢£¬¶à¸ö´íÎóÐÅÏ¢¼äÓÃ¶ººÅ·Ö¸ô¡£Èç¹ûÖ»ÊÇ×Ô¶¨ÒåÑéÖ¤Ê§°ÜÐÅÏ¢£¬ÔòÖ»ÐèÌîÐ´errormessageÊôÐÔÖµ¼´¿É
+4.tipmessagesèŠ‚ç‚¹æŒ‡ç¤ºå½“æŒ‰é’®éªŒè¯ä¸é€šè¿‡æ—¶çš„é”™è¯¯æç¤ºä¿¡æ¯ï¼Œerrornoå±žæ€§ä¸ºé”™è¯¯ç¼–å·ï¼Œå¤šä¸ªé”™è¯¯ç¼–å·é—´ä»¥é€—å·åˆ†éš”ï¼Œâ€œ0â€è¡¨
+
+ç¤ºéªŒè¯æˆåŠŸï¼Œâ€œ1â€è¡¨ç¤ºéªŒè¯å¤±è´¥ï¼›errormessageæŒ‡ç¤ºé”™è¯¯æç¤ºä¿¡æ¯ï¼Œå¤šä¸ªé”™è¯¯ä¿¡æ¯é—´ç”¨é€—å·åˆ†éš”ã€‚å¦‚æžœåªæ˜¯è‡ªå®šä¹‰éªŒè¯å¤±è´¥ä¿¡
+
+æ¯ï¼Œåˆ™åªéœ€å¡«å†™errormessageå±žæ€§å€¼å³å¯
 	<tipmessages>
-	   <tip1 errorno="0,1" errormessage="ÑéÖ¤³É¹¦,¸Ã°´Å¥´æÔÚ¿ÕÖÃµÄ±ØÌîÏî" />
-	   <tip2 errormessage="¸Ã°´Å¥´æÔÚ¿ÕÖÃµÄ±ØÌîÏî" />
+	   <tip1 errorno="0,1" errormessage="éªŒè¯æˆåŠŸ,è¯¥æŒ‰é’®å­˜åœ¨ç©ºç½®çš„å¿…å¡«é¡¹" />
+	   <tip2 errormessage="è¯¥æŒ‰é’®å­˜åœ¨ç©ºç½®çš„å¿…å¡«é¡¹" />
 	   ...
 	</tipmessages>
