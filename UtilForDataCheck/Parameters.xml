@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <controls>
+    <FrmTest>
+      <FrmTest>
+        <txtContent1 datatype="type1" eventtype="TEXTCHANGE" />
+        <txtContent2 datatype="type2" eventtype="textchange" />
+        <txtContent3 datatype="type3" eventtype="leave" />
+        <grid1 datatype="type4" notnullindex="1,2,3" />
+        <grid2 datatype="type5" notnullindex="0,5" />
+        <btnTest controls="txtContent1,txtContent2,txtContent3,grid1,grid2" tip="tip1" />
+      </FrmTest>
+
+      <FrmMain>
+        <txtContent1 datatype="type1" eventtype="leave" />
+        <txtContent2 datatype="type2" eventtype="textchange" />
+        <txtContent3 datatype="type3" eventtype="textchange" />
+        <btnTest controls="txtContent1,txtContent2,txtContent3" tip="tip1" />
+      </FrmMain>
+    </FrmTest>
+  </controls>
+
+  <types>
+    <type1 datatype="REALNUMBER" />
+    <type2 datatype="INTEGER" />
+    <type3 datatype="ANGLE" />
+    <type4 colIdx="0,1,2,3,4" datatype="REALNUMBER,REALNUMBER,INTEGER,INTEGER,ANGLE" />
+    <type5 colIdx="0" datatype="REALNUMBER"/>
+  </types>
+
+  <tipmessages>
+    <tip1 errorno="0,1" errormessage="验证成功,该按钮存在空置的必填项" />
+  </tipmessages>
+  
+</parameters>

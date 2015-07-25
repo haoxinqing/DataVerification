@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <namespace>
+    <FrmTest />
+    <FrmTest.comm />
+  </namespace>
+  
+  <class>
+    <FrmMain namespace="FrmTest" />
+    <ControlClass namespace="FrmTest.comm" />
+    <UtilClass namespace="FrmTest.comm" />
+  </class>
+  
+  <control>
+    <txtContent1 namespace="FrmTest" class="FrmMain" controltype="TextBox" />
+    <txtContent2 namespace="FrmTest" class="FrmMain" controltype="TextBox" />
+    <txtContent3 namespace="FrmTest" class="FrmMain" controltype="TextBox" />
+  </control>
+</parameters>

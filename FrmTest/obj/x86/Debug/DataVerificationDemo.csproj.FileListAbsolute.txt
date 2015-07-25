@@ -1,0 +1,14 @@
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+C:\Users\wc\Desktop\DataVerification V1.0\FrmTest\obj\x86\Debug\FrmTest.exe
+C:\Users\wc\Desktop\DataVerification V1.0\FrmTest\obj\x86\Debug\FrmTest.pdb

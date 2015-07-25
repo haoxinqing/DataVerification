@@ -1,0 +1,101 @@
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\Test\FrmTest\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Project_206V1.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.csproj.GenerateResource.Cache
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.csprojResolveAssemblyReference.cache
+F:\杜文强\项目\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\杜文强\项目\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmSetXml.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.csproj.GenerateResource.Cache
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_Button.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_DataGridView.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_TextBox.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\bin\Debug\NDatabase3.dll
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.csprojResolveAssemblyReference.cache
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TreeNodes.resources
+F:\杜文强\项目\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmTypeSelect.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\bin\Debug\NDatabase3.dll
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmSetXml.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmTypeSelect.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.TreeNodes.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_Button.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_DataGridView.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_TextBox.resources
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\bin\Debug\NDatabase3.dll
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmSetXml.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.FrmTypeSelect.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.TreeNodes.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_Button.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_DataGridView.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.UC_TextBox.resources
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.1\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\bin\Debug\NDatabase3.dll
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\bin\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\bin\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\bin\Debug\NDatabase3.dll
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.TipForm.resources
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification V1.0\UtilForDataCheck\obj\Debug\UtilForDataCheck.pdb

@@ -1,0 +1,97 @@
+F:\实习文件\代码\Test\FrmTest\FrmTest\bin\Debug\FrmTest.exe
+F:\实习文件\代码\Test\FrmTest\FrmTest\bin\Debug\FrmTest.pdb
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\FrmTest.pdb
+F:\实习文件\代码\Test\FrmTest\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\实习文件\代码\Test\FrmTest\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\FrmTest\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+F:\实习文件\代码\Test\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+F:\实习文件\代码\Test\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+F:\实习文件\代码\Test\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\Test\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\Test\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+F:\实习文件\代码\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.csprojResolveAssemblyReference.cache
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+C:\Users\sysware\Documents\Visual Studio 2010\Projects\DataVerification\FrmTest\obj\x86\Debug\FrmTest.csproj.GenerateResource.Cache
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+F:\杜文强\项目\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+F:\杜文强\项目\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+F:\杜文强\项目\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\杜文强\项目\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.csprojResolveAssemblyReference.cache
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\杜文强\项目\DataVerification\FrmTest\obj\x86\Debug\FrmTest.csproj.GenerateResource.Cache
+F:\杜文强\项目\DataVerification\FrmTest\bin\Debug\NDatabase3.dll
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\FrmTest.pdb
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\bin\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\bin\Debug\FrmTest.pdb
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\bin\Debug\NDatabase3.dll
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerificationV3.0\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\FrmTest.pdb
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\bin\Debug\FrmTest.exe
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\bin\Debug\FrmTest.pdb
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\bin\Debug\UtilForDataCheck.dll
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\bin\Debug\NDatabase3.dll
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\bin\Debug\UtilForDataCheck.pdb
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\实习文件\代码\DataVerificationV3.1\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.exe
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.pdb
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\FrmTest.exe
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\FrmTest.pdb
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.dll
+C:\Users\wc\Desktop\DataVerification\FrmTest\bin\Debug\UtilForDataCheck.pdb
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmMain.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.FrmTest.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\FrmTest.Properties.Resources.resources
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wc\Desktop\DataVerification\FrmTest\obj\x86\Debug\GenerateResource.write.1.tlog
